@@ -1,6 +1,0 @@
-operaciones matematicas
-Suma
-Resta
-Multiplicacion
-Division
-porcentaje
