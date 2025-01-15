@@ -1,5 +1,0 @@
-Hola como estas?
-esto es un saludo
-
-Estoy muy bien
-esta es la respuesta del saludo
